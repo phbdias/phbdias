@@ -15,7 +15,7 @@ StepChain, a mobile app created in partnership with NoLogo
 
 ### My tech stack 📚
 <div id="stack">
-  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/>
+  <img src="https://img.shields.io/badge/Solidity-2B247C?style=for-the-badge&logo=solidity&logoColor=E6E3EC" alt="solidity"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/React-F1F2F5?style=for-the-badge&logo=react&logoColor=247EA4" alt="react"/>
