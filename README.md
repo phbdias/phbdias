@@ -10,6 +10,7 @@ StepChain, a mobile app created in partnership with NoLogo
 <div id="work">
   <a href="https://defyme.io" target="_blank"><img src="https://img.shields.io/badge/DEFYME-370647?style=for-the-badge" alt="defyme"/></a>
   <a href="https://stepchain.net" target="_blank"><img src="https://img.shields.io/badge/StepChain-F95044?style=for-the-badge" alt="stepchain"/></a>
+  <a href="https://nologo.dev" target="_blank"><img src="https://img.shields.io/badge/NoLogo-EFF0F5?style=for-the-badge" alt="nologo"/></a>
 </div>
 
 ### How to reach me 📥
