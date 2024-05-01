@@ -8,8 +8,8 @@ blockchain developments
 StepChain, a mobile app created in partnership with NoLogo
 
 <div id="work">
-  <a href="https://defyme.io" target="_blank"><img src="https://img.shields.io/badge/DEFYME-370647" alt="defyme"/></a>
-  <a href="https://stepchain.net" target="_blank"><img src="https://img.shields.io/badge/StepChain-F95044" alt="stepchain"/></a>
+  <a href="https://defyme.io" target="_blank"><img src="https://img.shields.io/badge/DEFYME-370647?style=for-the-badge" alt="defyme"/></a>
+  <a href="https://stepchain.net" target="_blank"><img src="https://img.shields.io/badge/StepChain-F95044?style=for-the-badge" alt="stepchain"/></a>
 </div>
 
 ### How to reach me 📥
