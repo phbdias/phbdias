@@ -4,7 +4,7 @@ I'm Paulo Dias, a Blockchain Engineer fully engaged in the Web3 revolution.
 ### What I've been up to 👨‍💻
 - Co-founded DEFYME and conducted both front-end and
 blockchain developments
-- I led the development of the front-end and blockchain components for
+- I led the development of front-end and blockchain components for
 StepChain, a mobile app created in partnership with NoLogo
 
 <div id="work">
