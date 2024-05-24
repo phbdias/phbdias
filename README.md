@@ -14,13 +14,9 @@ StepChain, a mobile app created in partnership with NoLogo
 </div>
 
 ### My tech stack 📚
-<div id="stack">
-  <img src="https://img.shields.io/badge/Solidity-2B247C?style=for-the-badge&logo=solidity&logoColor=E6E3EC" alt="solidity"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/React-F1F2F5?style=for-the-badge&logo=react&logoColor=247EA4" alt="react"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/>
-</div>
+| Solidity | Hardhat | JavaScript | TypeScript | React & RN |
+|   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat"  alt="Hardhat" width="60" height="60"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60" centered /> |
 
 ### How to reach me 📥
 <div id="contact">
